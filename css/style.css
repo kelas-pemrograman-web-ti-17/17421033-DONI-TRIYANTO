@@ -1,0 +1,21 @@
+@import url('https://font.googleapis.com/css?familly=Roboto');
+
+body{
+  background: url('../image/d2.PNG') no-repeat center center fixed;
+  background-size: cover;
+}
+ button{
+   background-color: green;
+ }
+
+ .A{
+   background-color: green;
+ }
+
+ .B{
+   background-color: green;
+ }
+
+ .C{
+   background-color: green;
+ }
